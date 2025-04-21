@@ -9,7 +9,7 @@ Questa è una pagina minimal in puro HTML e CSS, ispirata a Linktree, ma con il 
 - Hosting su GitHub Pages
 
 🌐 **Live demo:**  
-👉 [mantux.github.io/mantux-links](https://mantux.github.io/mantux-links)
+👉 [Live](https://mantuxdev.github.io/Mantux-links/)
 
 📁 **Contenuti:**
 - `index.html` — la struttura principale
